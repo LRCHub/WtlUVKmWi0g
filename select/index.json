@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "白雪",
+  "base_artist": "Eve",
+  "createdAt": "2025-12-06T14:03:25.534509Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "白雪",
+      "artist": "Eve",
+      "has_synced": true,
+      "path": "select/01_白雪_Eve.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "朋友像杯酒-白雪",
+      "artist": "白雪",
+      "has_synced": false,
+      "path": "select/02_朋友像杯酒-白雪_白雪.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "白雪",
+      "artist": "KOKIA",
+      "has_synced": true,
+      "path": "select/03_白雪_KOKIA.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "白雪 / Shirayuki",
+      "artist": "Eve",
+      "has_synced": false,
+      "path": "select/04_白雪___Shirayuki_Eve.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "白雪",
+      "artist": "マルシィ",
+      "has_synced": true,
+      "path": "select/05_白雪_マルシィ.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "白雪",
+      "artist": "Eve",
+      "has_synced": false,
+      "path": "select/pl_01_白雪_Eve.txt"
+    }
+  ]
+}
